@@ -27,6 +27,11 @@ Dialogue systems and conversational agents – including chatbots, personal assi
 
 - [Pointer Networks in TensorFlow](https://medium.com/@devnag/pointer-networks-in-tensorflow-with-sample-code-14645063f264)
 
-## Code
+## Reference Code
 
 - [mLSTM in Tensorflow - fuhamosi](https://github.com/fuhuamosi/MatchLstm)
+
+## Our Implementation
+
+- [match-LSTM in Tensorflow](https://github.com/suriyadeepan/match-lstm)
+- [Pointer network in PyTorch](https://github.com/vanangamudi/pointer-net)
