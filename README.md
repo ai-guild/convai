@@ -33,5 +33,5 @@ Dialogue systems and conversational agents – including chatbots, personal assi
 
 ## Our Implementation
 
-- [match-LSTM in Tensorflow](https://github.com/suriyadeepan/match-lstm)
-- [Pointer network in PyTorch](https://github.com/vanangamudi/pointer-net)
+- [match-LSTM](https://github.com/suriyadeepan/match-lstm)
+- [Pointer network](https://github.com/vanangamudi/pointer-net)
