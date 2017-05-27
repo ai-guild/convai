@@ -22,6 +22,7 @@ Dialogue systems and conversational agents – including chatbots, personal assi
 - [r-net](https://www.microsoft.com/en-us/research/publication/mrc/)
 - [Mnemonic Reader (ensemble)](https://arxiv.org/abs/1705.02798)
 - [BiDAF](https://arxiv.org/abs/1611.01603)
+- [Collection of RC papers](https://github.com/ymcui/Eval-on-NN-of-RC)
 
 ## Articles
 
